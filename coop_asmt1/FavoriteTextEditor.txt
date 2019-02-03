@@ -1,0 +1,13 @@
+Andy Li
+CSC 59004
+
+My favorite text editor is Notepad++ because of its ability to work with various programming languages simply by saving a file as a specific extension.
+This is very convenient as most coding for large projects would typically be done on an IDE which only works with a specific set of PLs but Notepad++ is
+convenient for small scale testing especially considering that it does not take a long time to load as other IDEs normally would take. Overall, the efficiency
+that Notepad++ offers for such instances of coding is one of the reasons why Notepad++ is appealing. Because of its small file size, it is possible to even 
+store Notepad++ on a USB drive or any other portable storage device to run on which adds to its convenience.
+Another reason is the user interface that Notepad++ offers. While it may not seem as up to date as other programs, the presence of a UI is helpful because 
+it will most likely seem familiar to people that use various programs that feature a similar UI based on its simplicity. Aside from that, it is even possible
+for the user to customize the UI making personalization an option which may help users adjust the design to something that resembles another program's UI that
+they like. Overall, the personalization that Notepad++ offers sets it apart from other text editors and shows that one of the main pros it has to offer is 
+being convenient on the user. 
